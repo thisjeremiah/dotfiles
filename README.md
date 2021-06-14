@@ -14,7 +14,7 @@ n (Node Version Manager)
 
 ### Git Packages
 
-TPM (TMUX Package Manager)
+TPM (Tmux Plugin Manager)
 https://github.com/tmux-plugins/tpm
 
 Base16 Shell
