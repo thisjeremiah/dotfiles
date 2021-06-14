@@ -1,6 +1,6 @@
-```sh
-$ brew leaves
+#### brew packages
 
+```sh
 antigen
 ffmpeg
 neovim
