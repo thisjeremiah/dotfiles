@@ -22,3 +22,7 @@ https://github.com/chriskempson/base16-shell
 
 #### Vim Plug
 https://github.com/junegunn/vim-plug
+
+#### Pip Global Packages
+
+pipenv
