@@ -11,6 +11,7 @@ trash
 ### NPM Packages
 
 n (Node Version Manager)
+node-gyp
 
 ### Other Packages
 
