@@ -6,6 +6,7 @@ ffmpeg
 neovim
 tmux
 trash
+the_silver_searcher
 ```
 
 ### NPM Packages
